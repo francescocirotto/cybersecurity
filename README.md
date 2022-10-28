@@ -2,7 +2,9 @@
 # DDOS and DOS attack detection with ML approach
 Francesco Cirotto - Università degli studi di Napoli Federico II
 
-[TOC]
+ * [Dataset](#dataset)
+   + [Downloding](#downloding)
+ * [Setup](#setup)
 
 The repository contains notebooks and scripts for developing a ML approach for Network Intrusion Detection.
 Given a sample point, the objective of machine learning model will be to classify that whether the intrusion made is Benign or is a BruteForce. In particular DOS and DDOS attacks will be studied.
