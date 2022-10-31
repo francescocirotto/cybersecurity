@@ -30,4 +30,7 @@ You can use conda to install the required packages. A preliminary list of packag
 - matplotlib
 - seaborn
 
-**PLAN TO COMMIT A  A YML FILE WITH THE FULL CONFIGURATION**
+    The file [env_packages.yml](https://github.com/francescocirotto/cybersecurity/blob/main/env_packages.yml) now contains all packages  installed. To create envorinment (provided you have installed [conda]() ) just do:
+```
+conda env create -f environment.yml
+```
