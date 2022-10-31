@@ -23,4 +23,11 @@ aws s3 sync --no-sign-request "s3://cse-cic-ids2018/Processed Traffic Data for M
 ```
 
 ## Setup
-You can use conda to install the required packages. **CREATE A YML FILE**
+You can use conda to install the required packages. A preliminary list of packages
+- pandas
+- numpy
+- tensorflow
+- matplotlib
+- seaborn
+
+**PLAN TO COMMIT A  A YML FILE WITH THE FULL CONFIGURATION**
